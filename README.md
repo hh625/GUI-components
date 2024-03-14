@@ -122,11 +122,11 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 
-![Main](https://github.com/hh625/GUI-components/assets/116946289/17f82228-b3ba-4227-b1af-2eb02cc07788)
+![Main](https://github.com/hh625/GUI-components/assets/116946289/5cf43f4b-8fd6-48e9-ab8b-0af74ab50076)
 
-![FONT](https://github.com/hh625/GUI-components/assets/116946289/44beb828-8aac-493a-bac3-d23613ad1a5f)
+![FONT](https://github.com/hh625/GUI-components/assets/116946289/cb0fa6d3-834f-43b6-987f-538275fe348c)
 
-![COLOUR](https://github.com/hh625/GUI-components/assets/116946289/e83a3486-45d5-4f36-b876-56be0d45c2db)
+![Colour (2)](https://github.com/hh625/GUI-components/assets/116946289/df927ea4-5c1b-4dfb-869b-8a4b20dc2287)
 
 ## RESULT
 Thus a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
